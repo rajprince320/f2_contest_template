@@ -44,9 +44,9 @@ function removeAdmin() {
 function concatenateArray() {
   console.log(
     (arr = arr.concat([
-      { id: 4, name: "Prince", age: "24", profession: "developer" },
-      { id: 5, name: "raj", age: "23", profession: "designer" },
-      { id: 6, name: "Aaravind", age: "25", profession: "mentor" },
+      { id: 5, name: "Prince", age: "24", profession: "developer" },
+      { id: 6, name: "raj", age: "23", profession: "designer" },
+      { id: 7, name: "Aaravind", age: "25", profession: "mentor" },
     ]))
   );
   //Write your code here, just console.log
